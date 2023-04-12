@@ -1,0 +1,23 @@
+.select_style {
+  background-color: #555 !important;
+  /* background-color: #ffffff !important; */
+
+  color: white !important;
+  /* color: black !important; */
+}
+.select_style option {
+  background-color: white !important;
+  color: black !important;
+}
+.select_style option:nth-child(odd) {
+  background-color: #f1f0f0 !important;
+}
+.select_style option:nth-child(odd) {
+  background-color: #f1f0f0 !important;
+}
+.select_style option:hover {
+  background-color: #61dafb !important;
+}
+.select_style option:first-child {
+  background-color: #97c22a !important;
+}

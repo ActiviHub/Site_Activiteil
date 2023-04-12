@@ -1,0 +1,19 @@
+.border-dark {
+  border-color: #130032 !important;
+}
+.border-lum {
+  border-color: white !important;
+}
+
+.fb-btn {
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.fb-btn-dark {
+  background-image: url(../../img/facebook-logo-dark.svg);
+}
+.fb-btn-light {
+  background-image: url(../../img/facebook-logo-light.svg);
+}

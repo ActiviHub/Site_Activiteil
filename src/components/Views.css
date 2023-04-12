@@ -1,0 +1,13 @@
+.contenu {
+  color: #f1f1f1 !important;
+  background: #333 !important;
+}
+
+.contenu.dark {
+  color: #f1f1f1 !important;
+  background: #333 !important;
+}
+.contenu.dark {
+  color: #333 !important;
+  background: #f1f1f1 !important;
+}

@@ -1,0 +1,56 @@
+.border-dark {
+  border-color: #130032 !important;
+}
+.border-lum {
+  border-color: rgb(238, 254, 231) !important;
+}
+
+.player-wrapper {
+  position: relative;
+  padding-top: 70%; /* Player ratio: 100 / (1280 / 720) */
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (min-width: 2000px) {
+}
+@media screen and (min-width: 1400px) and (max-width: 1999px) {
+  .highmin {
+    min-height: 85vh !important;
+  }
+}
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .highmin {
+    min-height: 80vh !important;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .highmin {
+    min-height: 70vh !important;
+  }
+}
+
+@media screen and (orientation: portrait) and (min-width: 576px) and (max-width: 767px) {
+  .highmin {
+    min-height: 80vh !important;
+  }
+}
+
+@media only screen and (orientation: landscape) and (max-height: 575px) {
+  .highmin {
+    min-height: 70vh !important;
+  }
+}
+
+@media screen and (orientation: portrait) and (max-width: 575px) {
+  .highmin {
+    min-height: 60vh !important;
+  }
+}

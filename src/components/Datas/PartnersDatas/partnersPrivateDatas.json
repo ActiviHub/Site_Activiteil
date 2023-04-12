@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "image": "images/logos_partners/AccesEmploi_Logo.jpg",
+    "alt": "Logo Accès Emploi",
+    "url": "https://www.groupe-acces-emploi.fr"
+  },
+  {
+    "id": 2,
+    "image": "images/logos_partners/logo-avs.jpg",
+    "alt": "Logo AVS",
+    "url": "https://avs-emploi.fr"
+  },
+  {
+    "id": 3,
+    "image": "images/logos_partners/Logo_Les_Clefs.png",
+    "alt": "Logo Les Clefs",
+    "url": "https://www.lesclefs-csc.fr"
+  },
+  {
+    "id": 4,
+    "image": "images/logos_partners/LesConnexions-logo.png",
+    "alt": "Logo Les Connexions",
+    "url": "http://www.lesconnexions.org"
+  },
+  {
+    "id": 5,
+    "image": "images/logos_partners/Le_Duff.png",
+    "alt": "Logo Brasserie Gérome Le Duff",
+    "url": "https://brasserie-leduff.com/"
+  },
+
+  {
+    "id": 6,
+    "image": "images/logos_partners/Logo-Intermarché.png",
+    "alt": "Logo Intermarché",
+    "url": "https://www.intermarche.com/magasins/10178/le-teil-07400/infos-pratiques"
+  },
+  {
+    "id": 7,
+    "image": "images/logos_partners/logo_lezarts_baseline-x1_marges_NOIR_RVB.png",
+    "alt": "Logo Lez'Arts",
+    "url": "https://www.lezarts-collectif.com/"
+  },
+
+  {
+    "id": 8,
+    "image": "images/logos_partners/lol.png",
+    "alt": "Logo LOL",
+    "url": "https://www.mairie-le-teil.fr/vivre-au-teil/la-politique-de-la-ville/actions-realisees/le-lieu-ouvert-ludique-lol-le-rendez-vous-des-jeux/"
+  },
+
+  {
+    "id": 9,
+    "image": "images/logos_partners/LOGO_Le_TiLT_baseline_x2_BLEU_RVB.png",
+    "alt": "Logo Le Tilt",
+    "url": "https://le-tilt.com/"
+  },
+
+  {
+    "id": 11,
+    "image": "images/logos_partners/logo_mayesha.jpg",
+    "alt": "Logo_mayesha",
+    "url": "https://fr-fr.facebook.com/pages/category/Community/Reseau-Mayesha-Espoir-France-1133869093305771/"
+  },
+  {
+    "id": 12,
+    "image": "images/logos_partners/mobilite-petit.png",
+    "alt": "Logo Mobilité 07-26",
+    "url": "http://www.plateformemobilite-ra.fr/mobilite-07-26.html"
+  },
+  {
+    "id": 12,
+    "image": "images/logos_partners/logo_rebond.webp",
+    "alt": "Logo Rebond",
+    "url": "https://rebond-leteil.mystrikingly.com/"
+  },
+
+  {
+    "id": 13,
+    "image": "images/logos_partners/secours-populaire.png",
+    "alt": "Logo Secours Populaire Français",
+    "url": "https://www.secourspopulaire.fr/07/teil"
+  },
+  {
+    "id": 10,
+    "image": "images/logos_partners/logo-Le Terreau.jpg",
+    "alt": "Logo Le Terreau",
+    "url": "https://www.leterreau.org"
+  },
+  {
+    "id": 14,
+    "image": "images/logos_partners/zone5-logo.png",
+    "alt": "Logo Zone 5",
+    "url": "https://www.zone5.fr"
+  }
+]

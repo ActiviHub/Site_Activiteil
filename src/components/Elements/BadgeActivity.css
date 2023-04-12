@@ -1,0 +1,18 @@
+.photo {
+  width: auto;
+}
+@media only screen and (orientation: landscape) and (max-height: 575px) {
+  .photo {
+    max-width: 260px;
+  }
+}
+
+@media screen and (orientation: portrait) and (max-width: 575px) {
+  .photo {
+    max-width: 260px;
+  }
+}
+
+.bg-danger {
+  background-color: #eb661b !important;
+}

@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-primary {
+  background-color: #0d0021 !important;
+}
+.bg-dark {
+  background-color: #130032 !important;
+  background-color: #4d1a5f !important;
+}
+
+.bg-lum {
+  background-color: rgb(238, 254, 231);
+}
+
+/* Navbar */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+/* //// */
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+
+.App-fb {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin 7s cubic-bezier(0.5, 1, 0, 1);
+  }
+} */
+
+.nav-link {
+  background-color: #130028 !important;
+}
+
+.btn-primary {
+  background-color: white !important;
+  border: white !important;
+  color: #130028 !important;
+}
+
+.App-header {
+  /* background-color: #130028; */
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 0px;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .App-logo {
+    padding-top: 10px;
+    height: 50vmin;
+  }
+}

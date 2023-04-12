@@ -1,0 +1,19 @@
+.puce {
+  list-style-position: inside;
+  list-style-image: url("../../../img/puce.svg");
+  font-size: 34px;
+  line-height: 24px;
+}
+
+.text-members {
+  font-size: 20px;
+}
+
+.underline1 {
+  text-decoration-thickness: 6px;
+  text-decoration-color: #54bacb;
+}
+.underline2 {
+  text-decoration-thickness: 3px;
+  text-decoration-color: #53a948;
+}

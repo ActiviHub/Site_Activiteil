@@ -1,0 +1,122 @@
+.main {
+  padding-top: 100px;
+  height: 800px !important;
+  /* min-height: 10vh !important; */
+}
+.illustration {
+  background-image: url(../../img/welcome.svg);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.light_subtitle,
+.dark_subtitle {
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.dark_subtitle {
+  background-image: url(../../img/dark_subtitle.svg);
+}
+
+.light_subtitle {
+  background-image: url(../../img/light_subtitle.svg);
+}
+
+.text {
+  padding-top: 42% !important;
+}
+
+.title {
+  letter-spacing: -1.5px !important;
+}
+
+@media screen and (min-width: 2000px) {
+  .main {
+    min-height: 200vh !important;
+  }
+  .text {
+    padding-top: 95vh !important;
+  }
+}
+@media screen and (min-width: 1400px) and (max-width: 1999px) {
+  .main {
+    min-height: 130vh !important;
+  }
+  .text {
+    padding-top: 60vh !important;
+  }
+}
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+  .main {
+    height: 120vh !important;
+  }
+  .text {
+    padding-top: 48% !important;
+  }
+}
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .main {
+    height: 100vh !important;
+  }
+  .text {
+    padding-top: 46% !important;
+    /* background-color: greenyellow !important; */
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .main {
+    max-height: 78vh !important;
+    /* background-color: yellow !important; */
+  }
+  .text {
+    padding-top: 44% !important;
+  }
+  /* .light_subtitle {
+    background-image: url(../../img/light_subtitle.svg);
+  } */
+}
+
+@media screen and (orientation: portrait) and (min-width: 576px) and (max-width: 767px) {
+  .main {
+    max-height: 55vh !important;
+    /* background-color: orange !important; */
+  }
+  .text {
+    padding-top: 40% !important;
+  }
+  .light_subtitle {
+    background-image: url(../../img/light_subtitle.svg);
+  }
+  .dark_subtitle {
+    background-image: url(../../img/dark_subtitle.svg);
+  }
+}
+
+@media only screen and (orientation: landscape) and (max-height: 575px) {
+  .main {
+    height: 100vh !important;
+  }
+  .text {
+    padding-top: 42% !important;
+  }
+}
+
+@media screen and (orientation: portrait) and (max-width: 575px) {
+  .main {
+    max-height: 28vh !important;
+    /* max-height: 37vh !important; */
+  }
+
+  .text {
+    padding-top: 20% !important;
+  }
+  .light_subtitle {
+    background-image: url(../../img/light_subtitle_sm.svg);
+  }
+  .dark_subtitle {
+    background-image: url(../../img/dark_subtitle_sm.svg);
+  }
+}
